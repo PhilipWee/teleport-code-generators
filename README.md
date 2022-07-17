@@ -1,3 +1,7 @@
+Intended differences from original:
+1. More flexible conditional nodes/styles for better code output
+2. Additional metadata support for tailwind output
+
 <p align="center">
   <img src="https://github.com/teleporthq/teleport-code-generators/blob/development/Default.png" width="250"/>
 </p>
